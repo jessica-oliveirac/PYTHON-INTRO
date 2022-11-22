@@ -8,6 +8,9 @@
 4)Faça um programa que leia duas listas e que gere umma terceira com os elementos das duas primeiras
 
 5)Escreva uma função que retorne o maior de dois números
+máximo(5, 6) == 6
+máximo(2, 1) == 2
+máximo(7, 7) == 7
 
 6)Converta as seguintes expressões matemáticas para que possam ser calculadas usando o interpretador Python.
 
