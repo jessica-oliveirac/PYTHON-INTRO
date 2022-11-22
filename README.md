@@ -10,12 +10,15 @@
 5)Escreva uma função que retorne o maior de dois números
 
 6)Converta as seguintes expressões matemáticas para que possam ser calculadas usando o interpretador Python.
+
 10+20x30
+
 42/30
+
 (94+2)x6-1
 
-7)
+7)Escreva um programa que calcule a soma de três variáveis e imprima o resultado na tela.
 
-8)
+8)Escreva uma expressão que será utilizada para decidir se um aluno foi ou não aprovado. Para ser aprovado, todas as médias  do aluno devem ser maiores que 7. Considere que o  aluno cursa apenas três matérias, e  que a nota de cada uma está armazenada nas seguintees variáveis: matéria1, matéria2 e matéria3.
 
-9)
+9)Escreva um programa que pergunte a quantidade de km percorridos por um carro alugado pelo usuário, assim como a quantidade de dias pelos quais o carro foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por diass e R$0,15  por km rodado.
