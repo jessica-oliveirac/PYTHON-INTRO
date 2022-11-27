@@ -2,7 +2,6 @@
 
 LISTA 1
 
-LISTA 2
 1)Faça um programa que peça dois números inteiros. Imprima a soma desses dois números na tela.
 
 2)Escreva um programa que converta uma temperatura digitasa em °C em °F. A fórmula para essa conversão é: 
@@ -32,3 +31,6 @@ máximo(7, 7) == 7
 8)Escreva uma expressão que será utilizada para decidir se um aluno foi ou não aprovado. Para ser aprovado, todas as médias  do aluno devem ser maiores que 7. Considere que o  aluno cursa apenas três matérias, e  que a nota de cada uma está armazenada nas seguintees variáveis: matéria1, matéria2 e matéria3.
 
 9)Escreva um programa que pergunte a quantidade de km percorridos por um carro alugado pelo usuário, assim como a quantidade de dias pelos quais o carro foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por diass e R$0,15  por km rodado.
+
+LISTA 2
+
