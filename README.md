@@ -1,4 +1,8 @@
 # PYTHON-INTRO
+
+LISTA 1
+
+LISTA 2
 1)Faça um programa que peça dois números inteiros. Imprima a soma desses dois números na tela.
 
 2)Escreva um programa que converta uma temperatura digitasa em °C em °F. A fórmula para essa conversão é: 
