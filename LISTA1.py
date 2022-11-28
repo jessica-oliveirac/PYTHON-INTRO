@@ -36,7 +36,11 @@ print(max(7,7))
 #(94+2)x6-1
 
 #7)Escreva um programa que calcule a soma de três variáveis e imprima o resultado na tela.
-
+n1=4
+n2=20
+n3=15
+soma=n1+n2+n3
+print("Soma: ", soma)
 #8)Escreva uma expressão que será utilizada para decidir se um aluno foi ou não aprovado. Para ser aprovado, todas as médias do aluno devem ser maiores que 7. 
 #Considere que o aluno cursa apenas três matérias, e que a nota de cada uma está armazenada nas seguintees variáveis: matéria1, matéria2 e matéria3
 
