@@ -33,8 +33,19 @@ print(x)
 #SAÍDA 
 10
 --------------------------------------------------------------
-
 #5 - Faça um programa que leia um vetor de 5 números inteiros e mostre-os
+valores =[]
+for x  in range(0,5):
+    valores.append(int(input("Entre com o nº: ")))
+print(valores)
+#SAÍDA
+Entre com o nº: 20
+Entre com o nº: 4
+Entre com o nº: 8
+Entre com o nº: 9
+Entre com o nº: 7
+[20, 4, 8, 9, 7]
+---------------------------------------------------------------------------
 #6 - Faça um programa que peça uma nota, entre zero e dez. Mostre uma mensagem caso o valor seja inválido e continue pedindo até que o usuário informe um valor válido.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 #7 - Faça um Programa que peça um valor e mostre na tela se o valor é positivo ou negativo.
