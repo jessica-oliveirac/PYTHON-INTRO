@@ -22,6 +22,19 @@ print('Maior Nº: ',max(N1,N2,N3))
 print('Menor Nº: ', min(N1, N2, N3))
 -------------------------------------------------------------------------------------------------------------------
 #4)Faça um programa que leia duas listas e que gere umma terceira com os elementos das duas primeiras
+frutas=[]
+legumes=[]
+comida=[]
+for x in range(0,4):
+    frutas.append(str(input("Frutas: ")))
+for x in range(0,4):
+    legumes.append(str(input("Legumes: ")))
+print("Frutas: ",frutas)
+print("Legumes: ",legumes)
+
+comida.extend(frutas+legumes)
+
+print("Alimentos: ",comida)
 -------------------------------------------------------------------------------------------------------------------
 # 5)Escreva uma função que retorne o maior de dois números.
 # máximo(5, 6) == 6
