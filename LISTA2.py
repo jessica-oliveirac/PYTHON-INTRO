@@ -47,6 +47,10 @@ Entre com o nº: 7
 [20, 4, 8, 9, 7]
 ---------------------------------------------------------------------------
 #6 - Faça um programa que peça uma nota, entre zero e dez. Mostre uma mensagem caso o valor seja inválido e continue pedindo até que o usuário informe um valor válido.
+valor=int(input("Digite uma nota entre 0 e 10: "))
+while(valor<0) or (valor>10):
+        valor=int(input("Informe um valor válido: "))
+print("Valor válido!: ", valor)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 #7 - Faça um Programa que peça um valor e mostre na tela se o valor é positivo ou negativo.
 num=int(input("Digite um nº: "))
