@@ -60,5 +60,10 @@ else:
     print("Valor Negativo!")
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 #8 - Nome na vertical. Faça um programa que solicite o nome do usuário e imprima-o na vertical.
+letra=input("Nome: ")
+for i in letra:
+    print(i)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 #9 - Converta as seguintes expressões matemáticas para que possam ser calculadas usando o interpretador Python. 10 + 20 x 3042/30(94+2) x 6 - 1
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 #10 - Defina uma função recursiva que calcule o maior divisor comum (M.D.C.) entre dois números a e b, em que a>b.
