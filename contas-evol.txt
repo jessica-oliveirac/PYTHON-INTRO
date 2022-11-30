@@ -1,0 +1,70 @@
+N1=int(input("Digite um n°:"))
+N2=int(input("Digite outro n°: "))
+
+print("OPÇÕES: ")
+print("1 - Soma(+)")
+print("2 - Subtração(-)")
+print("3 - Multiplicação(*)")
+print("4 - Divisão(/)")
+
+opcao=int(input("Digite o n° correspondente á opção ecolhida: ")
+
+if opcao==1:
+	conta=N1+N2
+if opcao==2:
+	conta=N1-N2
+if opcao==3:
+	conta=N1*N2
+else
+	conta=N1/N2
+------------------------------------
+N1=int(input("Digite um n°:"))
+N2=int(input("Digite outro n°: "))
+
+print("OPÇÕES: ")
+print("1 - Soma(+)")
+print("2 - Subtração(-)")
+print("3 - Multiplicação(*)")
+print("4 - Divisão(/)")
+
+opcao=int(input("Digite o n° correspondente á opção ecolhida: "))
+
+if opcao==1:
+	conta=N1+N2
+if opcao==2:
+	conta=N1-N2
+if opcao==3:
+	conta=N1*N2
+if opcao==4:
+	conta=N1/N2
+
+print("Resultado: ", conta)
+------------------------------------
+N1=int(input("Digite um n°:"))
+N2=int(input("Digite outro n°: "))
+
+print("OPÇÕES: ")
+print("1 - Soma(+)")
+print("2 - Subtração(-)")
+print("3 - Multiplicação(*)")
+print("4 - Divisão(/)")
+
+opcao=int(input("Digite o n° correspondente á opção ecolhida: "))
+
+if opcao==1:
+	conta=N1+N2
+	
+if opcao==3:
+	conta=N1*N2
+
+if N1>N2:
+        if opcao==2:
+                conta=N1-N2
+        if opcao==4:
+                conta=N1/N2
+if N2>N1:
+        if opcao==2:
+                conta=N2-N1
+        if opcao==4:
+                conta=N2/N1
+print("Resultado: ", conta)
