@@ -11,11 +11,19 @@ opcao=int(input("Digite o n° correspondente á opção ecolhida: "))
 
 if opcao==1:
 	conta=N1+N2
-if opcao==2:
-	conta=N1-N2
+	
 if opcao==3:
 	conta=N1*N2
-if opcao==4:
-	conta=N1/N2
 
+if N1>N2:
+        if opcao==2:
+                conta=N1-N2
+        if opcao==4:
+                conta=N1/N2
+if N2>N1:
+        if opcao==2:
+                conta=N2-N1
+        if opcao==4:
+                conta=N2/N1
 print("Resultado: ", conta)
+
